@@ -1,0 +1,16 @@
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\bin\Debug\net8.0\LongPollingClient.exe
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\bin\Debug\net8.0\LongPollingClient.deps.json
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\bin\Debug\net8.0\LongPollingClient.runtimeconfig.json
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\bin\Debug\net8.0\LongPollingClient.runtimeconfig.dev.json
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\bin\Debug\net8.0\LongPollingClient.dll
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\bin\Debug\net8.0\LongPollingClient.pdb
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.AssemblyInfoInputs.cache
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.AssemblyInfo.cs
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.csproj.CoreCompileInputs.cache
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.dll
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\refint\LongPollingClient.dll
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.pdb
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPollingClient.genruntimeconfig.cache
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\ref\LongPollingClient.dll
+C:\Projects\Polling\LongPolling\Client\LongPollingClient\obj\Debug\net8.0\LongPoll.80E69FDA.Up2Date
